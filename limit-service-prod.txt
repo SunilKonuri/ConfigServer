@@ -1,0 +1,2 @@
+limit.service.min=15
+limit.service.max=105
